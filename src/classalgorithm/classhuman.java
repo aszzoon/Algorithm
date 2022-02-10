@@ -5,7 +5,7 @@ class human {
 	int height; // 신장
 	int weight; // 체중
 }
-
+// 사람클래스 human을 테스트 하는 클래스
 class humantester {
 	public static void main(String[] args) {
 		
