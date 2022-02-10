@@ -30,3 +30,5 @@ class humantester {
 	System.out.println("Ã¼Áß:"+YDG.weight);
 	}
 }
+
+
