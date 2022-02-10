@@ -4,6 +4,6 @@ public class hello {
 
 	public static void main(String[]args) {
 		
-		System.out.println("GMSadmin12#");
+		System.out.println("2022년 2월 9일 수요일");
 	}
 }
