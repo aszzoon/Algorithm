@@ -1,9 +1,17 @@
 package arrayalgorithm;
-//�ڷ����� double�̰� ��� ���� 5�� �迭�� �����ϰ� �̹迭�� ��� ��Ҹ� ǥ���ϴ� ���α׷�
+//요수 수가 5이고 double인 배열
 public class DoubleArray {
 
 	public static void main(String[] args) {
+		double[] a = new double[5];
 		
+		//모든요소값의 표시
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
+		System.out.println();
 
 	}
 
