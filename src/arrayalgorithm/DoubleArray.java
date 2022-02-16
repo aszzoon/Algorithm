@@ -6,12 +6,12 @@ public class DoubleArray {
 		double[] a = new double[5];
 		
 		//모든요소값의 표시
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
-		System.out.println();
+		System.out.println(1);
+		System.out.println(2);
+		System.out.println(3);
+		System.out.println(4);
+		System.out.println(5);
+		System.out.println(6);
 
 	}
 
